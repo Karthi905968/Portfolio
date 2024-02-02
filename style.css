@@ -1,0 +1,106 @@
+body{
+    font-family: "monospace",sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+.font-primary{
+    color: #00b7ff;
+}
+
+.title-icon{
+    font-weight: 25px;
+    letter-spacing: 0.75px;
+}
+
+#about{
+    height: auto;
+    margin: 60px auto;
+    max-width: 485px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#about>img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    object-fit: cover;
+}
+
+#about .name{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+#about .vocation{
+    font-size: 18px;
+    color: gray;
+    margin: 10px;
+}
+
+#about .skills{
+    font-size: 17px;
+    color:#28b1e7;
+    margin: 10px;
+}
+
+#about .icons{
+    margin: 10px;
+    font-size: 30px;
+}
+
+#about .icons a{
+    color: #000;
+    transition: 0.4s;
+}
+
+#icon:hover{
+   transform: scale(2);
+}
+
+a.font-black{
+    color: #000 !important;
+    font-weight: 500;
+}
+
+#project{
+    margin: 60px auto;
+    width: 80%;
+}
+
+#project>h2{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+#project .card img{
+    height: 80%;
+    width: 200%;
+    padding: 5px;
+}
+
+#logo{
+    width: 50px;
+}
+
+nav{
+    position: sticky;
+    top: 0;
+}
+
+#git{
+    margin: 5px;
+}
