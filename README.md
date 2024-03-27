@@ -42,6 +42,11 @@ Thank you for using Twitter-Clone! If you have any questions or feedback, please
 
 ## Demo Site
 
+https://karthi905968.github.io/Portfolio/
+
+<img width="1431" alt="Screenshot 2024-03-27 at 12 36 31 PM" src="https://github.com/Karthi905968/Portfolio/assets/144101745/d90433be-ce8a-48a2-b313-2bfcbc8153e6">
+
+
 
 
 
